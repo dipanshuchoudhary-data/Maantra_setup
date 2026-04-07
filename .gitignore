@@ -1,0 +1,5 @@
+# Netlify build artifacts (keep plugins/package.json tracked)
+.netlify/*
+!.netlify/plugins/
+.netlify/plugins/*
+!.netlify/plugins/package.json
